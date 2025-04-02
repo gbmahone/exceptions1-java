@@ -46,7 +46,7 @@ public class Program {
         }
         catch (RuntimeException e){
             System.out.println("Unexpected error");
-            //qualquer outra exceção inesperada eu posso dar essa mensagem
+            //qualquer outra exceção
         }
     }
 }
